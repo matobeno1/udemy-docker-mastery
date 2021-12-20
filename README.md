@@ -1,3 +1,12 @@
+# Commands
+```
+docker info
+docker <command> <subcommand> # new model of commands
+```
+
+# Images vs containers
+
+
 # Udemy Course Docker Mastery: with Kubernetes+Swarm from a Docker Captain
 
 > Build, test, deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using DevOps
